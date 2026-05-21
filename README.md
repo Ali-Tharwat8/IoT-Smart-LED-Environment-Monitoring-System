@@ -18,7 +18,7 @@ IoT Course Final Project using Arduino Uno Wifi REV2 and DHT11 (Temperature and 
 ## Development Team
 
 - **Ali Tharwat** - https://github.com/Ali-Tharwat8
-- **Mostafa Mohamed** - [https://github.com/Hassan7Eladl](https://github.com/MostafaMTK)
+- **Mostafa Mohamed** - [https://github.com/MostafaMTK(https://github.com/MostafaMTK)
 
 # Demo 
 https://drive.google.com/file/d/1Apb2TS0v08sq_Qnlt6aKQRhhiu4DfLG7/view?usp=sharing
